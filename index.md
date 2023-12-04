@@ -6,7 +6,7 @@ This is my home page! My name is Hiep Le and I am a computer science major
 that attends Cal State University Fullerton. 
 
 # Github profile link 
-https://github.com/leHiep60
+(https://github.com/leHiep60)
 
 ### CPSC 120
 
